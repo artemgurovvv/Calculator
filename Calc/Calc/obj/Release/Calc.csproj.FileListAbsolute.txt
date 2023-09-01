@@ -1,0 +1,11 @@
+D:\Calc\Calc\bin\Release\Calc.exe.config
+D:\Calc\Calc\bin\Release\Calc.exe
+D:\Calc\Calc\bin\Release\Calc.pdb
+D:\Calc\Calc\obj\Release\Calc.csproj.AssemblyReference.cache
+D:\Calc\Calc\obj\Release\Calc.csproj.SuggestedBindingRedirects.cache
+D:\Calc\Calc\obj\Release\Calc.Form1.resources
+D:\Calc\Calc\obj\Release\Calc.Properties.Resources.resources
+D:\Calc\Calc\obj\Release\Calc.csproj.GenerateResource.cache
+D:\Calc\Calc\obj\Release\Calc.csproj.CoreCompileInputs.cache
+D:\Calc\Calc\obj\Release\Calc.exe
+D:\Calc\Calc\obj\Release\Calc.pdb
